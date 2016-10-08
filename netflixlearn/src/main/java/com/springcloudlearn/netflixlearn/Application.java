@@ -10,7 +10,7 @@ import java.security.AlgorithmConstraints;
 /**
  * Created by zhul-a on 2016/9/5.
  */
-//开启一个服务注册中心
+//开启一个服务注册中心,已经上传GIT
 @EnableEurekaServer
 @SpringBootApplication
 public class Application {
